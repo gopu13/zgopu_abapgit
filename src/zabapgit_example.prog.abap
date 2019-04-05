@@ -5,4 +5,4 @@
 *&---------------------------------------------------------------------*
 REPORT ZABAPGIT_EXAMPLE.
 
-write: 'ABAP Git Example'.
+write: 'ABAP Git Example. Change from GitHub'.
